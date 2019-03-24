@@ -1,7 +1,6 @@
-# RTE-CamHD
+# camhd_floc_model
 
-Example notebooks for working with OOI CamHD data in the cloud, using the Pangeo
-big data science framework.
+Notebooks for the analysis and modeling of CamHD data. 
 
 Data used in these scripts can be downloaded here: 
 https://drive.google.com/open?id=181KueMUMLMRh15r-vXinCp9iu4MYk7Pn
