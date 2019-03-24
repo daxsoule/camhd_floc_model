@@ -22,13 +22,21 @@ Project Layout
 A reproducible single-paper project directory structure might look something like this
 
 README.md
+
 LICENSE
+
 environment.yml
+
 data/intermediate_results.csv
+
 notebooks/process_raw_data.ipynb
+
 notebooks/figure1.ipynb
+
 notebooks/figure2.ipynb
+
 notebooks/helper.py
+
 manuscript/manuscript.tex
 
 Donoho, D. et al. (2009), Reproducible research in computational harmonic analysis, Comp. Sci. Eng. 11(1):8–18, doi: 10.1109/MCSE.2009.15
