@@ -4,12 +4,9 @@ Example notebooks for working with OOI CamHD data in the cloud, using the Pangeo
 big data science framework.
 
 Data used in these scripts can be downloaded here: 
-https://nlsees.rte-pangeo.org/user/daxsoule/lab/tree/data/camhd_data
+https://drive.google.com/open?id=181KueMUMLMRh15r-vXinCp9iu4MYk7Pn
 
-Donoho, D. et al. (2009), Reproducible research in computational harmonic analysis, Comp. Sci. Eng. 11(1):8–18, doi: 10.1109/MCSE.2009.15
-
-Sandve et al. (2013) give some specific recommmendations for computational reproducibility.
-
+Reproducibility:
 For every result, keep track of how it was produced
 Avoid manual data-manipulation steps
 Archive the exact versions of all external programs used
@@ -35,5 +32,7 @@ notebooks/figure2.ipynb
 notebooks/helper.py
 manuscript/manuscript.tex
 
+Donoho, D. et al. (2009), Reproducible research in computational harmonic analysis, Comp. Sci. Eng. 11(1):8–18, doi: 10.1109/MCSE.2009.15
 
+Sandve et al. (2013) give some specific recommmendations for computational reproducibility.
 
