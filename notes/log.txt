@@ -1,0 +1,9 @@
++------+-------+-----+--+--+
+|  Activity Log            |
++------+-------+------+------+--+
+| Date |  Start| End  | Activity |  |
++------+-------+------+------+--+
+| 3/31 | 10pm  |12am  | Created new dbCamHD file for shared drive, updated camhd motion data, updated notebooks for new project|
++------+-------+-----+---+--+
+|      |  |  |  |  |
++------+-------+-----+--+--+
