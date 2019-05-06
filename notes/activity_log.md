@@ -12,3 +12,4 @@
 | 4/09/2019 | 1300-1400  | Added a driveanon notebook to all for access to the data remotely       |
 | 4/09/2019 | 2230-2400  | Worked on driveanon notebook     |
 | 4/10/2019 | 1215-1330  | Worked up driveanon notebook to fit specs|
+| 5/06/2019 | 0830-0930  |Meeting on zoom|
