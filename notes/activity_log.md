@@ -13,3 +13,4 @@
 | 4/09/2019 | 2230-2400  | Worked on driveanon notebook     |
 | 4/10/2019 | 1215-1330  | Worked up driveanon notebook to fit specs|
 | 5/06/2019 | 0830-0930  |Meeting on zoom|
+| 5/08/2019 | 2030-2130  |re-processed deployment two with rte method|
