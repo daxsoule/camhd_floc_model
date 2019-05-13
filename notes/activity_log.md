@@ -17,3 +17,5 @@
 | 5/06/2019 | 0830-0930  |Meeting on zoom|
 | 5/08/2019 | 2030-2130  |re-processed deployment two with rte method|
 | 5/09/2019 | 1200-1500  |re-processed deployment three with rte method, jumped into making own regions|
+| 5/10/2019 | 2200-2300  |Updated stella online model for axial's floc output|
+| 5/11/2019 | 1930-2400  |Worked on making own regions data|
