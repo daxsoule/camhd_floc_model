@@ -20,3 +20,5 @@
 | 5/10/2019 | 2200-2300  |Updated stella online model for axial's floc output|
 | 5/11/2019 | 1930-2400  |Worked on making own regions data|
 | 5/23/2019 | 1830-2130  |Updated with February Regions|
+| 6/10/2019 | 0830-1430  |Meeting, worked to convert camhd videos from .mov to .webm|
+| 6/12/2019 | 1200-1530  |Worked to compile ffmpeg with libvpx|
