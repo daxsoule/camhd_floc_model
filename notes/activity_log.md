@@ -22,3 +22,5 @@
 | 5/23/2019 | 1830-2130  |Updated with February Regions|
 | 6/10/2019 | 0830-1430  |Meeting, worked to convert camhd videos from .mov to .webm|
 | 6/12/2019 | 1200-1530  |Worked to compile ffmpeg with libvpx|
+| 6/18/2019 | 1200-1530  |Encoded camhd video using vp9 from prores to webm |
+| 6/18/2019 | 2200-2400  |Encoded camhd video using h264 from prores to mpeg4 |
