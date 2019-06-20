@@ -24,3 +24,5 @@
 | 6/12/2019 | 1200-1530  |Worked to compile ffmpeg with libvpx|
 | 6/18/2019 | 1200-1530  |Encoded camhd video using vp9 from prores to webm |
 | 6/18/2019 | 2200-2400  |Encoded camhd video using h264 from prores to mpeg4 |
+| 6/19/2019 | 0900-1030  |Meeting, and cleaned up work enviornment|
+| 6/19/2019 | 2000-2200  |Updated dbcamhd, worked in azure notebooks|
