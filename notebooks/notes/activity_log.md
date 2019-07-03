@@ -26,3 +26,8 @@
 | 6/18/2019 | 2200-2400  |Encoded camhd video using h264 from prores to mpeg4 |
 | 6/19/2019 | 0900-1030  |Meeting, and cleaned up work enviornment|
 | 6/19/2019 | 2000-2200  |Updated dbcamhd, worked in azure notebooks|
+| 6/28/2019 | 0900-1030  |Meeting, uploaded to azure storage, and cleaned up work enviornment|
+| 6/28/2019 | 1430-2030  |Single file downloads works|
+| 7/02/2019 | 1230-1830  |Single file downloads with dask works|
+| 7/03/2019 | 1330-1830  |Multi file downloads with dask works|
+
